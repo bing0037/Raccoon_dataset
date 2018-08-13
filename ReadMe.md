@@ -1,6 +1,6 @@
 # Raccoon Detector Dataset
 
-Dataset from [experiencor/raccoon_dataset](https://github.com/experiencor/raccoon_dataset)
+Dataset modified from [experiencor/raccoon_dataset](https://github.com/experiencor/raccoon_dataset)
 
 * annotations: contains the xml files in PASCAL VOC format
 * images: contains the image data in jpg format
