@@ -1,0 +1,40 @@
+Raccoon_dataset/images/raccoon-42.jpg 121,206,410,767,0
+Raccoon_dataset/images/raccoon-156.jpg 27,27,139,243,0
+Raccoon_dataset/images/raccoon-167.jpg 1,5,175,195,0
+Raccoon_dataset/images/raccoon-191.jpg 100,89,478,331,0
+Raccoon_dataset/images/raccoon-19.jpg 87,8,182,89,0
+Raccoon_dataset/images/raccoon-101.jpg 86,53,400,356,0
+Raccoon_dataset/images/raccoon-172.jpg 183,53,399,302,0
+Raccoon_dataset/images/raccoon-24.jpg 77,48,179,156,0 139,77,202,145,0
+Raccoon_dataset/images/raccoon-62.jpg 73,19,632,407,0
+Raccoon_dataset/images/raccoon-31.jpg 82,21,187,197,0 11,55,80,145,0
+Raccoon_dataset/images/raccoon-64.jpg 1,1,247,194,0
+Raccoon_dataset/images/raccoon-84.jpg 31,6,197,163,0
+Raccoon_dataset/images/raccoon-61.jpg 94,63,195,148,0 142,39,213,108,0
+Raccoon_dataset/images/raccoon-198.jpg 57,21,158,184,0 112,32,199,158,0
+Raccoon_dataset/images/raccoon-80.jpg 21,27,177,182,0
+Raccoon_dataset/images/raccoon-135.jpg 99,8,605,404,0
+Raccoon_dataset/images/raccoon-51.jpg 315,105,772,540,0
+Raccoon_dataset/images/raccoon-122.jpg 7,7,174,198,0
+Raccoon_dataset/images/raccoon-36.jpg 113,27,468,428,0
+Raccoon_dataset/images/raccoon-98.jpg 108,31,351,308,0
+Raccoon_dataset/images/raccoon-68.jpg 1,24,517,423,0
+Raccoon_dataset/images/raccoon-90.jpg 44,90,577,426,0
+Raccoon_dataset/images/raccoon-95.jpg 50,45,272,289,0
+Raccoon_dataset/images/raccoon-43.jpg 1,65,239,316,0
+Raccoon_dataset/images/raccoon-96.jpg 28,25,203,175,0
+Raccoon_dataset/images/raccoon-3.jpg 1,1,720,476,0
+Raccoon_dataset/images/raccoon-50.jpg 36,2,174,172,0
+Raccoon_dataset/images/raccoon-176.jpg 308,90,611,426,0 103,1,314,189,0
+Raccoon_dataset/images/raccoon-185.jpg 25,1,200,181,0
+Raccoon_dataset/images/raccoon-104.jpg 189,41,340,249,0
+Raccoon_dataset/images/raccoon-35.jpg 1,1,164,183,0
+Raccoon_dataset/images/raccoon-178.jpg 59,12,242,180,0
+Raccoon_dataset/images/raccoon-190.jpg 78,54,153,135,0
+Raccoon_dataset/images/raccoon-175.jpg 69,89,354,378,0
+Raccoon_dataset/images/raccoon-58.jpg 2,1,199,221,0
+Raccoon_dataset/images/raccoon-140.jpg 6,17,202,231,0
+Raccoon_dataset/images/raccoon-87.jpg 1,3,206,191,0
+Raccoon_dataset/images/raccoon-148.jpg 32,177,174,316,0 309,172,428,315,0
+Raccoon_dataset/images/raccoon-194.jpg 1,63,885,1042,0
+Raccoon_dataset/images/raccoon-71.jpg 129,51,628,373,0
